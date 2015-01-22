@@ -6,7 +6,6 @@ Summary: Virtual package which provides java but uses the Sun/Oracle JDK
 License: None
 BuildArch: noarch
 Provides: java, jre
-Requires: jdk > %VERSION%
 
 %description
 Virtual package which provides java but uses the Sun/Oracle JDK
